@@ -15,4 +15,4 @@ The scope of this project can be extended to great limits.
 
 First data is extracted data from the various sites using web scrapping and then the data is cleaned for any outlier text. The data is then classified using VADER's compound score and labeled as positive, negative or neutral.
 
-This data is then used to train a model using Naive Bayes classifier and deployed onto heroku using Flask, HTML and CSS.
+This data is then used to train a model using Naive Bayes classifier.
