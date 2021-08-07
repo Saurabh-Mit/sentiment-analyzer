@@ -4,6 +4,7 @@ The application predicts the sentiment of the given text based on certain topics
 
 - Oil Price
 - Stock Markets
+
 The scope of this project can be extended to great limits.
 (At present only Oil Price is available)
 ## Features
